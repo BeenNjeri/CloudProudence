@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C07FCFAE-5C18-4CBC-84F5-96B67BF4F8E8}"
+	ProjectSection(SolutionItems) = preProject
+		Home.html = Home.html
+		index.js = index.js
+		style.css = style.css
+		..\..\..\Downloads\wave-61012.mp4 = ..\..\..\Downloads\wave-61012.mp4
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3F42CA-12AF-4AD9-9390-F52C0FD7B5F1}
+	EndGlobalSection
+EndGlobal
